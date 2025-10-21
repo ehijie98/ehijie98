@@ -38,10 +38,10 @@
 Throughout my career, I’ve developed strong communication skills, from presenting strategic hiring solutions to C-level executives to collaborating effectively in agile software teams. While training as a developer, I ran pair-programming sessions to help others understand unit testing and mocking — receiving great feedback for clarity and approachability.  
 
 ### Problem Solving & Adaptability  
-Transitioning from recruitment into software development required learning new technologies quickly and applying them in real projects. I thrive in environments that demand logical thinking and adaptability — whether debugging code or streamlining a workflow.  
+Transitioning from recruitment into software development required learning new technologies quickly and applying them in real projects. I thrive in environments that demand logical thinking and adaptability - whether debugging code or streamlining a workflow.  
 
 ### Team Collaboration  
-My background in client-facing work and agile environments means I’m comfortable working across disciplines and cultures. I value feedback, mentorship, and open communication as key tools for growth — both personally and technically.  
+My background in client-facing work and agile environments means I’m comfortable working across disciplines and cultures. I value feedback, mentorship, and open communication as key tools for growth - both personally and technically.  
 
 ---
 
