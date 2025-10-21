@@ -2,19 +2,19 @@
 
 🚀 **Full-Stack Software Engineer** | JavaScript | TypeScript | Python | Ruby | React | Node.js | PostgreSQL  
 🌱 Currently learning: DevOps, AWS, Docker, Kubernetes  
-⚽ Big football and music fan & tech enthusiast – passionate about building impactful products that make a difference  
+🎵 Big music & sports fan & tech enthusiast – passionate about building impactful products that make a difference  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ehijie-aghedo/) | [Email](mailto:eaghedo1@gmail.com)
 
 ---
 
 ## 🧩 Projects
 
-| Name                         | Description                                                 | Tech/tools                                     |
-| -----------------------------| ------------------------------------------------------------| ---------------------------------------------- |
-| **Ravenous**                 | A Yelp-like clone web app for finding restaurants and cafés.| React, JavaScript, REST APIs                   |
-| **Dealscover London**        | A budget-friendly web app helping tourists explore London.  | MongoDB, Express.js, React, Node.js, Jest      |
-| **Acebook**                  | A Facebook clone with authentication and testing.           | MongoDB, Express.js, React, Node.js, Jest      |
-| **Notes App**                | A frontend notes app built using TDD and MVC structure.     | JavaScript, Jest, HTML/CSS                     |
+| Name                         | Description                                                  | Tech/tools                                     |
+| -----------------------------| ------------------------------------------------------------ | ---------------------------------------------- |
+| **Ravenous**                 | A Yelp-like clone web app for finding restaurants and cafés. | React, JavaScript, REST APIs                   |
+| **Dealscover London**        | A budget-friendly web app helping tourists explore London.   | MongoDB, Express.js, React, Node.js, Jest      |
+| **Acebook**                  | A Facebook clone with authentication and testing.            | MongoDB, Express.js, React, Node.js, Jest      |
+| **Notes App**                | A frontend notes app built using TDD and MVC structure.      | JavaScript, Jest, HTML/CSS                     |
 
 ---
 
@@ -24,7 +24,7 @@
 📆 Jan 2020 – Nov 2022  
 
 - Facilitated a successful CRM migration from Adapt to Bullhorn and trained the wider team post-implementation.  
-- Partnered with clients like **ING** and **LCH** to expand data and compliance teams by 50%.  
+- Partnered with clients like **ING** and **LCH** to expand data and compliance teams by **50%**.  
 - Led client meetings in Paris and Amsterdam to understand technical hiring requirements and deliver tailored solutions.  
 - Placed over **30 professionals** in specialist data and analytics roles across the financial services sector.  
 
@@ -53,15 +53,16 @@ My background in client-facing work and agile environments means I’m comfortab
 - Applied key software principles: **OOP**, **TDD**, **MVC**, **Agile**, and **pair programming**.  
 - Built multiple projects from concept to deployment under tight deadlines.  
 
-**[King's College London]** — *[BSc Chemistry]*  
+**[King's College London]** — *[1st Class BSc Chemistry]*  
 📆 [09/2016 - 07/2019]  
-- [Optional: include relevant coursework or achievements]  
+- Notable modules: Advanced Topics in Physical Chemistry and Computational Chemistry, Mathematics for Chemistry, Advanced Analytical Chemistry.
+- Member of African & Caribbean Society (2017 to 2019).
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Ruby  
+**Languages:** JavaScript, Python, Ruby  
 **Frameworks & Libraries:** React, Node.js, Express.js, Ruby on Rails  
 **Databases:** PostgreSQL, MongoDB  
 **Tools & Practices:** Git, GitHub, Jest, Agile, TDD, Docker (learning), AWS (learning)  
