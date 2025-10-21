@@ -1,6 +1,6 @@
 # 👋 Ehijie Aghedo
 
-🚀 **Full-Stack Software Engineer** | JavaScript | TypeScript | Python | Ruby | React | Node.js | PostgreSQL  
+🚀 **Full-Stack Software Engineer** | JavaScript | Python | Ruby | React | Node.js | PostgreSQL  
 🌱 Currently learning: DevOps, AWS, Docker, Kubernetes  
 🎵 Big music & sports fan & tech enthusiast – passionate about building impactful products that make a difference  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ehijie-aghedo/) | [Email](mailto:eaghedo1@gmail.com)
